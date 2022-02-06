@@ -48,7 +48,7 @@ class Config:
    
     #Database
     DATABASE_URI= None
-    DATABASE_NAME= None
+    DATABASE_NAME= "VCPlayerBot"
 
 
     #heroku
