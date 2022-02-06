@@ -41,7 +41,7 @@ class Config:
 
     #Stream Chat and Log Group
     CHAT = "-1001782735000"
-    LOG_GROUP= "1237452850"
+    LOG_GROUP= "-1001782735000"
 
     #Stream 
     STREAM_URL= "https://www.youtube.com/watch?v=1k0dR29u2YQ"
